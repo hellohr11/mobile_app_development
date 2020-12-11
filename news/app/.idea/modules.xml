@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1686517679/3_GeographyDrawerLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/-1686517679/3_GeographyDrawerLayout.iml" group="3_GeographyDrawerLayout" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="news/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1545725057/news.iml" filepath="$PROJECT_DIR$/.idea/modules/1545725057/news.iml" group="news" />
+    </modules>
+  </component>
+</project>
